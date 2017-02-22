@@ -1,0 +1,72 @@
+p
+{
+    font-size: 1.4em;
+	font-family: Trebuchet MS,Arial, serif;
+	font-style: italic;
+	 text-align: justify;
+	 color :   black;
+}
+
+
+h1 
+{
+    font-family:  Trebuchet MS, Arial,serif;
+	font-weight: bold;
+	font-size: 1.9em;
+	text-decoration: blink;
+	text-decoration: underline;
+	text-align: center;
+	color: rgb(29,97,95);
+	
+
+}
+
+body
+{
+    background-image: url("clair.jpg");
+	 background-attachment: fixed;
+}
+.no
+{
+    font-size: 1.4em;
+	font-family: Trebuchet MS,Arial, serif;
+	
+	 text-align: justify;
+	 color :   black;
+}
+.s1
+{
+
+ color: black;
+ font-size: 1.2em;
+ font-family: Trebuchet MS, Arial,serif;
+}
+.s2
+{
+
+ color: rgb(174,0,44);
+ font-size: 1.3em;
+ font-family: Trebuchet MS, Arial,serif;
+}
+
+.n1
+{
+ color: black;
+ font-size: 1.2em;
+ font-family: Trebuchet MS, Arial,serif;
+}
+
+
+a:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: cyan;
+}
+a:active /* Quand le visiteur clique sur le lien */
+{
+    background-color: rgb(29,97,95);
+}
+a:focus /* Quand le visiteur sélectionne le lien */
+{
+    background-color: rgb(11,36,35);
+}
